@@ -9,9 +9,9 @@
 
 ### 🚀 Sobre mim
 
-Sou **QA Engineer Sênior** na IBM com 3+ anos de experiência garantindo a qualidade de aplicações críticas do setor bancário. Apaixonada por automação, dados e inteligência artificial — atualmente me aprofundando em **IA Scientist** pela FIAP para expandir meu impacto além do QA.
+Sou **QA Engineer Sênior** na IBM com 3+ anos de experiência garantindo a qualidade de aplicações críticas no setor bancário. Atualmente me aprofundando em **IA Scientist** pela FIAP para expandir meu impacto além do QA.
 
-Formada pela **42 São Paulo** (Level 10 · Junior Developer), onde desenvolvi raciocínio lógico avançado e domínio técnico em C e C++. Acredito que a melhor qualidade nasce da combinação de visão técnica + empatia com o usuário final.
+Formada pela **42 São Paulo**, onde desenvolvi raciocínio lógico avançado e domínio técnico em C e C++. Acredito que a melhor qualidade nasce da combinação de visão técnica + empatia com o usuário final.
 
 ---
 
