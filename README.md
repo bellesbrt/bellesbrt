@@ -51,7 +51,7 @@ Formada pela **42 São Paulo**, onde desenvolvi raciocínio lógico avançado e 
 ### 🧪 Tipos de Teste que domino
 
 ```
-✅ Funcional     ✅ Exploratório    ✅ Regressão
+✅ Funcional     ✅ Exploratório     ✅ Regressão
 ✅ Integração    ✅ Performance      ✅ Carga & Stress
 ✅ API (REST)    ✅ Acessibilidade   ✅ Mobile (iOS/Android)
 ✅ Cross-browser ✅ Usabilidade      ✅ Automação (Playwright)
