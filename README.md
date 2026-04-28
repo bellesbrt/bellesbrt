@@ -1,4 +1,4 @@
-# Hi, I'm Isabelle Nicole 👋
+# Olá, sou a Isabelle Brito 👋
 
 **QA Engineer · AI Scientist · Developer**
 
@@ -30,6 +30,8 @@ Formada pela **42 São Paulo** (Level 10 · Junior Developer), onde desenvolvi r
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
 
 **IA & Dados**
 
