@@ -77,15 +77,4 @@ Suite de testes automatizados end-to-end com boas práticas de QA moderno.
 
 ---
 
-### 📊 GitHub Stats
-
-![Isabelle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bellesbrt&show_icons=true&theme=default&hide_border=true)
-
----
-
-### 📫 Vamos conversar?
-
-[![LinkedIn](https://img.shields.io/badge/Me_encontre_no_LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bellesbrt)
-[![Email](https://img.shields.io/badge/isabelle_nicole@outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:isabelle_nicole@outlook.com)
-
 > *"Qualidade não é um ato, é um hábito."* — Aristóteles
